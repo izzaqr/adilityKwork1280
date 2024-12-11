@@ -1,0 +1,48 @@
+/* Подключение шрифта Bebas Neue Pro Bold */
+@font-face {
+  font-family: 'Bebas Neue Pro';
+  src: url('fonts/BebasNeuePro-Bold.otf') format('opentype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+/* Подключение шрифта Bebas Neue Pro Book */
+@font-face {
+  font-family: 'Bebas Neue Pro';
+  src: url('fonts/BebasNeuePro-Book.otf') format('opentype');
+  font-weight: 400;
+  /* обычный вес */
+  font-style: normal;
+}
+
+/* Подключение шрифта Bebas Neue Pro Italic */
+@font-face {
+  font-family: 'Bebas Neue Pro';
+  src: url('fonts/BebasNeuePro-Italic.otf') format('opentype');
+  font-weight: 400;
+  font-style: italic;
+}
+
+/* Подключение шрифта Bebas Neue Pro Light */
+@font-face {
+  font-family: 'Bebas Neue Pro';
+  src: url('fonts/BebasNeuePro-Light.otf') format('opentype');
+  font-weight: 300;
+  font-style: normal;
+}
+
+/* Подключение шрифта Bebas Neue Pro Regular */
+@font-face {
+  font-family: 'Bebas Neue Pro';
+  src: url('fonts/BebasNeuePro-Regular.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Подключение шрифта Bebas Neue Pro Thin */
+@font-face {
+  font-family: 'Bebas Neue Pro';
+  src: url('fonts/BebasNeuePro-Thin.otf') format('opentype');
+  font-weight: 100;
+  font-style: normal;
+}
